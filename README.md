@@ -1,1 +1,1 @@
-# EriEthio-Tech-CMS
+# Ethio-Digital-CMS
